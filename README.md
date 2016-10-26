@@ -1,7 +1,7 @@
 # RNASeq023---HSCC-1-month-chronic-withdrawal
 ##Read Counts and Normalization of RNAS-Seq on HS Collaborative Cross (1-month EtOH chronic withdrawal experiment)
 
-###The analysis related files are distributed amond 3 directories:
+###The analysis related files are distributed among 3 directories:
   - data: input data and intermediate files
     * data/Alignment_mm10 --> bam and bai files
     * data/Normalization --> all input files needed to generate normalized read counts
