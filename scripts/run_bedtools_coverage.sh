@@ -1,0 +1,1 @@
+/lawrencedata/darakjia/bedtools-2.17.0/bin/multiBamCov -S -split -bams /lawrencedata/ongoing_analyses/RNASeq023/data/Alignment_mm10/*sorted.bam -bed mm10_reduced_non_overlapping_exons_sorted_chradd.bed > RNASeq023_mm10_coverage_splitoption.txt
